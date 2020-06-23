@@ -13,7 +13,7 @@ module.exports = {
   labels: ['renovate'],
   rebaseWhen: 'auto',
   repositories: [
-    "j0nm1/test"
+    "osbdr/pipeline-nodejs-demo"
   ],
   onboarding: true,
   onboardingConfig: {
