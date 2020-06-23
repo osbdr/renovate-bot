@@ -9,7 +9,7 @@ module.exports = {
   ],
   platform: 'github',
   assignees: ['j0nm1'],
-  baseBranches: ['dev'],
+  baseBranches: ['develop'],
   labels: ['renovate'],
   rebaseWhen: 'auto',
   repositories: [
