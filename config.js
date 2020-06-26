@@ -17,7 +17,8 @@ module.exports = {
     "osbdr/pipeline-django-demo",
     "osbdr/pipeline-nodejs-demo",
     "osbdr/pipeline-python-demo",
-    "osbdr/pipeline-r-demo"
+    "osbdr/pipeline-r-demo",
+    "j0nm1/pipeline-python-demo-issue"
   ],
   onboarding: true,
   onboardingConfig: {
