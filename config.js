@@ -14,7 +14,8 @@ module.exports = {
   logLevel: 'debug',
   repositories: [
     "osbdr/pipeline-nodejs-demo",
-    "osbdr/pipeline-python-demo"
+    "osbdr/pipeline-python-demo",
+    "osbdr/pipeline-django-demo"
   ],
   onboarding: true,
   onboardingConfig: {
