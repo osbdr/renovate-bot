@@ -13,9 +13,11 @@ module.exports = {
   labels: ['renovate'],
   logLevel: 'debug',
   repositories: [
+    "osbdr/pipeline-buildah-nodejs-demo",
+    "osbdr/pipeline-django-demo",
     "osbdr/pipeline-nodejs-demo",
     "osbdr/pipeline-python-demo",
-    "osbdr/pipeline-django-demo"
+    "osbdr/pipeline-r-demo"
   ],
   onboarding: true,
   onboardingConfig: {
