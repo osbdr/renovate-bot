@@ -11,9 +11,10 @@ module.exports = {
   assignees: ['j0nm1'],
   baseBranches: ['develop'],
   labels: ['renovate'],
-  rebaseWhen: 'auto',
+  logLevel: 'debug',
   repositories: [
-    "osbdr/pipeline-nodejs-demo"
+    "osbdr/pipeline-nodejs-demo",
+    "osbdr/pipeline-python-demo"
   ],
   onboarding: true,
   onboardingConfig: {
