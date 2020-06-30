@@ -15,10 +15,11 @@ module.exports = {
   repositories: [
     "osbdr/pipeline-buildah-nodejs-demo",
     "osbdr/pipeline-django-demo",
+    "osbdr/pipeline-django-semver-demo",
     "osbdr/pipeline-nodejs-demo",
+    "osbdr/pipeline-ponicode-demo",
     "osbdr/pipeline-python-demo",
     "osbdr/pipeline-r-demo",
-    "j0nm1/pipeline-python-demo-issue"
   ],
   onboarding: true,
   onboardingConfig: {
