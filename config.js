@@ -20,6 +20,7 @@ module.exports = {
     "osbdr/pipeline-ponicode-demo",
     "osbdr/pipeline-python-demo",
     "osbdr/pipeline-r-demo",
+    "osbdr/renovate-bot"
   ],
   onboarding: true,
   onboardingConfig: {
